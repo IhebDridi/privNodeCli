@@ -1,0 +1,31 @@
+{
+  "name": "nodeclipriv",
+  "version": "1.0.0",
+  "description": "a private cli",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhebDridi/privNodeCli.git"
+  },
+  "author": "iheb dridi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhebDridi/privNodeCli/issues"
+  },
+  "homepage": "https://github.com/IhebDridi/privNodeCli#readme",
+  "dependencies": {
+    "@angular/cli": "^13.2.5",
+    "angular": "^1.8.2",
+    "chalk": "^5.0.0",
+    "create-react-app": "^5.0.0",
+    "execa": "^6.1.0",
+    "inquirer": "^8.2.0",
+    "listr": "^0.14.2",
+    "ora": "^6.1.0",
+    "react": "^17.0.2"
+  }
+}
